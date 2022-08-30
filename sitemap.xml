@@ -11,24 +11,6 @@
   </url>
   
   <url>
-    <loc>https://2ws-w.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://2ws-w.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://2ws-w.github.io/post/a47bfc3f.html</loc>
     
     <lastmod>2022-08-30</lastmod>
@@ -128,6 +110,13 @@
 
   
   <url>
+    <loc>https://2ws-w.github.io/tags/hexo/</loc>
+    <lastmod>2022-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://2ws-w.github.io/tags/vue/</loc>
     <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -141,14 +130,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://2ws-w.github.io/tags/hexo/</loc>
+    <loc>https://2ws-w.github.io/categories/%E6%95%99%E5%AD%A6/</loc>
     <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://2ws-w.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
@@ -159,13 +148,6 @@
   
   <url>
     <loc>https://2ws-w.github.io/categories/%E7%A9%BA%E7%99%BD/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://2ws-w.github.io/categories/%E6%95%99%E5%AD%A6/</loc>
     <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

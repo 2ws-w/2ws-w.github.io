@@ -54,13 +54,27 @@
     
     
     <entry>
-      <title>占位文章</title>
-      <link href="/post/a47bfc3f.html"/>
-      <url>/post/a47bfc3f.html</url>
+      <title>vite中使用sass</title>
+      <link href="/post/s27bfc3f.html"/>
+      <url>/post/s27bfc3f.html</url>
       
-        <content type="html"><![CDATA[<h1 id="占位用的文章"><a href="#占位用的文章" class="headerlink" title="占位用的文章"></a>占位用的文章</h1><p>==暂时还没有内容！==</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="sass在vite中的使用"><a href="#sass在vite中的使用" class="headerlink" title="sass在vite中的使用"></a>sass在vite中的使用</h1><figure class="highlight tsx"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i sass -d</span><br></pre></td></tr></tbody></table></figure><figure class="highlight tsx"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install sass-loader sass</span><br></pre></td></tr></tbody></table></figure><h3 id="查看package-json"><a href="#查看package-json" class="headerlink" title="查看package.json"></a>查看package.json</h3><figure class="highlight tsx"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">"devDependencies"</span>: {</span><br><span class="line">    .........</span><br><span class="line">   <span class="string">"sass"</span>: <span class="string">"^1.54.8"</span>,</span><br><span class="line">   <span class="string">"sass-loader"</span>: <span class="string">"^13.0.2"</span>,</span><br><span class="line">    .........</span><br><span class="line"> }</span><br></pre></td></tr></tbody></table></figure><p>显示如图则为安装完成</p><h3 id="创建src-styles-main-scss文件"><a href="#创建src-styles-main-scss文件" class="headerlink" title="创建src/styles/main.scss文件"></a>创建src/styles/main.scss文件</h3><h3 id="配置-vite-config-js"><a href="#配置-vite-config-js" class="headerlink" title="配置 vite.config.js"></a>配置 vite.config.js</h3><figure class="highlight tsx"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">export</span> <span class="keyword">default</span> <span class="title function_">defineConfig</span>({</span><br><span class="line">  <span class="attr">plugins</span>: [<span class="title function_">vue</span>()],</span><br><span class="line">  <span class="attr">css</span>: {</span><br><span class="line">    <span class="attr">preprocessorOptions</span>: {</span><br><span class="line">      <span class="attr">scss</span>: {</span><br><span class="line">        <span class="comment">// 两种方式都可以</span></span><br><span class="line">        <span class="attr">additionalData</span>: <span class="string">'@import "./src/styles/main.scss";'</span></span><br><span class="line">        <span class="comment">// additionalData: '@use "@/assets/scss/global.scss" as *;'</span></span><br><span class="line">      }</span><br><span class="line">    }</span><br><span class="line">  },</span><br><span class="line">})</span><br></pre></td></tr></tbody></table></figure><p>安装完成后可以自行测试</p><h3 id="需要注意的是"><a href="#需要注意的是" class="headerlink" title="需要注意的是~"></a><code>需要注意的是~</code></h3><p>在需要使用的vue组件处，style lang需写成scss ，而不是sass 否则会报错</p><figure class="highlight tsx"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;style scoped lang=<span class="string">'scss'</span>&gt;</span><br><span class="line">    </span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></tbody></table></figure>]]></content>
       
       
+      <categories>
+          
+          <category> 操作指南 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sass </tag>
+            
+            <tag> vue </tag>
+            
+        </tags>
       
     </entry>
     
@@ -232,22 +246,22 @@
     
     
     <entry>
-      <title>关于我</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h3 id="我的简历"><a href="#我的简历" class="headerlink" title="我的简历"></a>我的简历</h3><p> <code>https://www.f8vtra.icu/</code></p><p>巴拉巴拉~~~</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>关于我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="我的简历"><a href="#我的简历" class="headerlink" title="我的简历"></a>我的简历</h3><p> <code>https://www.f8vtra.icu/</code></p><p>巴拉巴拉~~~</p>]]></content>
       
     </entry>
     
@@ -265,9 +279,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       

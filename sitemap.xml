@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://2ws-w.github.io/post/4618cb0a.html</loc>
+    
+    <lastmod>2022-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://2ws-w.github.io/post/s27bfc3f.html</loc>
     
     <lastmod>2022-09-06</lastmod>
@@ -101,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://2ws-w.github.io/post/a47bfc3f.html</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://2ws-w.github.io/archives/index.html</loc>
     
     <lastmod>2022-08-30</lastmod>
@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://2ws-w.github.io/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,63 +129,63 @@
   
   <url>
     <loc>https://2ws-w.github.io/tags/vercel/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2ws-w.github.io/tags/hexo/</loc>
-    <lastmod>2022-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://2ws-w.github.io/tags/typora/</loc>
-    <lastmod>2022-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://2ws-w.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2ws-w.github.io/tags/sass/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2ws-w.github.io/tags/vue/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://2ws-w.github.io/tags/typora/</loc>
+    <lastmod>2022-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://2ws-w.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2ws-w.github.io/tags/github/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2ws-w.github.io/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://2ws-w.github.io/tags/space/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <loc>https://2ws-w.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -194,21 +194,14 @@
   
   <url>
     <loc>https://2ws-w.github.io/categories/%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2022-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://2ws-w.github.io/categories/%E7%A9%BA%E7%99%BD/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://2ws-w.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

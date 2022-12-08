@@ -191,15 +191,6 @@
   </url>
   
   <url>
-    <loc>https://2ws-w.github.io/scaffolds/page.html</loc>
-    
-    <lastmod>2022-05-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://2ws-w.github.io/scaffolds/draft.html</loc>
     
     <lastmod>2022-05-29</lastmod>
@@ -210,6 +201,15 @@
   
   <url>
     <loc>https://2ws-w.github.io/scaffolds/post.html</loc>
+    
+    <lastmod>2022-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://2ws-w.github.io/scaffolds/page.html</loc>
     
     <lastmod>2022-05-29</lastmod>
     
@@ -304,13 +304,6 @@
   </url>
   
   <url>
-    <loc>https://2ws-w.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2022-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://2ws-w.github.io/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2022-12-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,6 +312,13 @@
   
   <url>
     <loc>https://2ws-w.github.io/tags/node-js/</loc>
+    <lastmod>2022-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://2ws-w.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2022-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
